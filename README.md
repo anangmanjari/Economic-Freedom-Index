@@ -1,2 +1,2 @@
 # Economic-Freedom-Index
-A python project for analyzing economic freedom index using machine learning methods.
+A python project to analyze Economic Freedom Index using Machine Learning techniques.
